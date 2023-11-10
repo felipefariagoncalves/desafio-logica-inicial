@@ -1,5 +1,5 @@
 let nome = "Black Hero"
-let quantXp = 1000
+let quantXp = 2532
 
 if (quantXp < 1000){
     quantXp = "Ferro"
